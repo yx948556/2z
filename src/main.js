@@ -6,9 +6,9 @@ import store from './store'
 Vue.config.productionTip = false
 
 //配置vant组件
-// import Vant from 'vant';
-// import 'vant/lib/index.css';
-// Vue.use(Vant);
+import Vant from 'vant';
+import 'vant/lib/index.css';
+Vue.use(Vant);
 
 
 
