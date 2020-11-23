@@ -6,11 +6,11 @@
       </div>
       <div class="lb_right">
         <div class="lb_right1">
-          <van-icon name="manager-o" style="font-size: 30px" />
+          <i class="iconfont icon-user"></i>
           <p>我的</p>
         </div>
         <div class="lb_right2">
-          <van-icon name="wap-nav" style="font-size: 30px" />
+          <i class="iconfont icon-nav"></i>
           <p>导航</p>
         </div>
       </div>
@@ -20,35 +20,35 @@
     </div>
     <div class="lb_item">
       <div class="lb_fu">
-        <div class="iconfont lb_div1" style="font-size: 50px">&#xe602;</div>
+        <div class="iconfont lb_div1" style="font-size: 0.5rem">&#xe602;</div>
         <p>装修方案</p>
       </div>
       <div class="lb_fu">
-        <div class="iconfont lb_div2" style="font-size: 50px">&#xe606;</div>
+        <div class="iconfont lb_div2" style="font-size: 0.5rem">&#xe606;</div>
         <p>效果图</p>
       </div>
       <div class="lb_fu">
-        <div class="iconfont lb_div3" style="font-size: 50px">&#xe609;</div>
+        <div class="iconfont lb_div3" style="font-size: 0.5rem">&#xe609;</div>
         <p>设计师</p>
       </div>
       <div class="lb_fu">
-        <div class="iconfont lb_div4" style="font-size: 50px">&#xe603;</div>
+        <div class="iconfont lb_div4" style="font-size: 0.5rem">&#xe603;</div>
         <p>装修工地</p>
       </div>
       <div class="lb_fu">
-        <div class="iconfont lb_div5" style="font-size: 50px">&#xe60b;</div>
+        <div class="iconfont lb_div5" style="font-size: 0.5rem">&#xe60b;</div>
         <p>装修攻略</p>
       </div>
       <div class="lb_fu">
-        <div class="iconfont lb_div6" style="font-size: 50px">&#xe604;</div>
+        <div class="iconfont lb_div6" style="font-size: 0.5rem">&#xe604;</div>
         <p>装修贷款</p>
       </div>
       <div class="lb_fu">
-        <div class="iconfont lb_div7" style="font-size: 50px">&#xe62c;</div>
+        <div class="iconfont lb_div7" style="font-size: 0.5rem">&#xe62c;</div>
         <p>免费预约</p>
       </div>
       <div class="lb_fu">
-        <div class="iconfont lb_div8" style="font-size: 50px">&#xe608;</div>
+        <div class="iconfont lb_div8" style="font-size: 0.5rem">&#xe608;</div>
         <p>十秒报价</p>
       </div>
     </div>
@@ -68,14 +68,14 @@
       </div>
       <div class="lb_tdt">
         <div class="lb_tdt1">
-          <span class="iconfont icon-zero" style="font-size: 36px"></span>
+          <span class="iconfont icon-zero" style="font-size: 0.36rem"></span>
           <p>0增长，标准施工</p>
           <span
             class="iconfont icon-protection-fill"
-            style="font-size: 36px"
+            style="font-size: 0.36rem"
           ></span>
           <p>杜绝项目外包</p>
-          <span class="iconfont icon-price" style="font-size: 36px"></span>
+          <span class="iconfont icon-price" style="font-size: 0.36rem"></span>
           <p>装修贷款</p>
         </div>
       </div>
@@ -97,7 +97,7 @@
     <div class="lb_ty">
       <div class="lb_tes">
         <div class="lb_test">
-          <p class="lb_p1">设计师</p>
+          <p class="lb_p">设计师</p>
         </div>
       </div>
       <div class="lb_tyt">
@@ -132,10 +132,11 @@
       </div>
       <div class="lb_tyu">
         <div class="lb_tyu-a">
-          换一换 <i class="iconfont icon-change" style="font-size: 30px"></i>
+          换一换 <i class="iconfont icon-change" style="font-size: 0.3rem"></i>
         </div>
         <div class="lb_tyu-b">
-          更多设计师 <i class="iconfont icon-more" style="font-size: 32px"></i>
+          更多设计师
+          <i class="iconfont icon-more" style="font-size: 0.32rem"></i>
         </div>
       </div>
     </div>
@@ -164,10 +165,11 @@
       </div>
       <div class="lb_tyu">
         <div class="lb_tyu-a">
-          换一换 <i class="iconfont icon-change" style="font-size: 30px"></i>
+          换一换 <i class="iconfont icon-change" style="font-size: 0.3rem"></i>
         </div>
         <div class="lb_tyu-b">
-          更多效果图 <i class="iconfont icon-more" style="font-size: 32px"></i>
+          更多效果图
+          <i class="iconfont icon-more" style="font-size: 0.32rem"></i>
         </div>
       </div>
     </div>
@@ -188,11 +190,11 @@
       </div>
       <div class="lb_tyu">
         <div class="lb_tyu-a">
-          换一换 <i class="iconfont icon-change" style="font-size: 30px"></i>
+          换一换 <i class="iconfont icon-change" style="font-size: 0.3rem"></i>
         </div>
         <div class="lb_tyu-b">
           更多工地直播
-          <i class="iconfont icon-more" style="font-size: 32px"></i>
+          <i class="iconfont icon-more" style="font-size: 0.32rem"></i>
         </div>
       </div>
     </div>
@@ -210,11 +212,11 @@
           <div class="lb_tyl-d">房子交付要经验，验房师是做什么的？</div>
           <div class="lb_tyl-e">
             <p>
-              <i class="iconfont icon-time" style="font-size: 26px"></i>
+              <i class="iconfont icon-time" style="font-size: 0.26rem"></i>
               <span>2016-0707</span>
             </p>
             <p>
-              <i class="iconfont icon-view" style="font-size: 30px"></i>
+              <i class="iconfont icon-view" style="font-size: 0.3rem"></i>
               <span>2016-0707</span>
             </p>
           </div>
@@ -228,11 +230,11 @@
           <div class="lb_tyl-d">能让您涨工资的家居风水！</div>
           <div class="lb_tyl-e">
             <p>
-              <i class="iconfont icon-time" style="font-size: 26px"></i>
+              <i class="iconfont icon-time" style="font-size: 0.26rem"></i>
               <span>2016-0707</span>
             </p>
             <p>
-              <i class="iconfont icon-view" style="font-size: 30px"></i>
+              <i class="iconfont icon-view" style="font-size: 0.3rem"></i>
               <span>2016-0707</span>
             </p>
           </div>
@@ -246,11 +248,11 @@
           <div class="lb_tyl-d">遇到有这样房子的男人就嫁了吧</div>
           <div class="lb_tyl-e">
             <p>
-              <i class="iconfont icon-time" style="font-size: 26px"></i>
+              <i class="iconfont icon-time" style="font-size: 0.26rem"></i>
               <span>2016-0707</span>
             </p>
             <p>
-              <i class="iconfont icon-view" style="font-size: 30px"></i>
+              <i class="iconfont icon-view" style="font-size: 0.3rem"></i>
               <span>2016-0707</span>
             </p>
           </div>
@@ -258,11 +260,11 @@
       </div>
       <div class="lb_tyu">
         <div class="lb_tyu-a">
-          换一换 <i class="iconfont icon-change" style="font-size: 30px"></i>
+          换一换 <i class="iconfont icon-change" style="font-size: 0.3rem"></i>
         </div>
         <div class="lb_tyu-b">
           更多装修攻略
-          <i class="iconfont icon-more" style="font-size: 32px"></i>
+          <i class="iconfont icon-more" style="font-size: 0.32rem"></i>
         </div>
       </div>
     </div>
@@ -272,12 +274,13 @@
       </div>
     </div>
     <div class="lb_tyj">
-      <img src="@/assets/imgs/lb14.png" alt="">
+      <img src="@/assets/imgs/lb14.png" alt="" />
     </div>
   </div>
 </template>
 
 <script>
+import rem from "@/assets/rem";
 import "@/assets/iconfont/iconfont.css";
 export default {
   data() {
@@ -297,818 +300,797 @@ export default {
   margin: 0;
 }
 .lb_box {
-  width: 750px;
+  width: 7.5rem;
   background: #f4f4f4;
   .lb_top {
-    width: 750px;
-    height: 100px;
+    width: 7.5rem;
+    height: 2rem;
     background: #fff;
     box-sizing: border-box;
     display: flex;
     justify-content: space-between;
     .lb_left {
-      width: 250px;
-      height: 100px;
+      width: 2.16rem;
+      height: 1rem;
       box-sizing: border-box;
+      margin-left: 0.18rem;
       img {
-        width: 214px;
-        height: 70px;
-        margin-top: 16px;
-        margin-left: 18px;
+        margin-top: 0.18rem;
       }
     }
     .lb_right {
-      width: 150px;
-      height: 100px;
+      width: 1.5rem;
+      height: 1rem;
       display: flex;
       box-sizing: border-box;
-      justify-content: center;
       .lb_right1 {
-        height: 100px;
-        margin-top: 15px;
-        margin-right: 38px;
+        height: 1rem;
+        margin-right: 0.38rem;
         color: #999999;
         box-sizing: border-box;
         p {
-          margin: 0;
-          padding: 0;
-          margin-top: 10px;
+          font-size: 0.2rem;
         }
       }
       .lb_right2 {
-        height: 100px;
-        margin-top: 18px;
+        height: 1rem;
         color: #999999;
         box-sizing: border-box;
         p {
-          margin: 0;
-          padding: 0;
-          margin-top: 10px;
-          box-sizing: border-box;
+          font-size: 0.2rem;
         }
       }
     }
   }
   .lb_nav {
-    width: 750px;
-    height: 238px;
+    width: 7.5rem;
+    height: 2.38rem;
     box-sizing: border-box;
     img {
-      width: 750px;
-      height: 238px;
+      width: 7.5rem;
+      height: 2.34rem;
     }
   }
   .lb_item {
-    width: 750px;
-    height: 464px;
+    width: 7.5rem;
+    height: 4.6rem;
     background: #fff;
     display: flex;
     flex-wrap: wrap;
     box-sizing: border-box;
     .lb_fu {
       width: 25%;
-      height: 232px;
+      height: 2.32rem;
       box-sizing: border-box;
       text-align: center;
       .lb_div1 {
-          box-sizing: border-box;
-        width: 118px;
-        height: 120px;
+        box-sizing: border-box;
+        width: 1.18rem;
+        height: 1.18rem;
         text-align: center;
         border-radius: 50%;
         background: #39c893;
         text-align: center;
-        line-height: 120px;
-        margin-top: 36px;
-        margin-left: 35px;
+        line-height: 1.2rem;
+        margin-top: 0.36rem;
+        margin-left: 0.35rem;
         color: #ffffff;
       }
       .lb_div2 {
-          box-sizing: border-box;
-        width: 118px;
-        height: 120px;
+        box-sizing: border-box;
+        width: 1.18rem;
+        height: 1.12rem;
         text-align: center;
         border-radius: 50%;
         background: #feb605;
         text-align: center;
-        line-height: 120px;
-        margin-top: 36px;
-        margin-left: 35px;
+        line-height: 1.2rem;
+        margin-top: 0.36rem;
+        margin-left: 0.35rem;
         color: #ffffff;
       }
       .lb_div3 {
-          box-sizing: border-box;
-        width: 118px;
-        height: 120px;
+        box-sizing: border-box;
+        width: 1.18rem;
+        height: 1.2rem;
         text-align: center;
         border-radius: 50%;
         background: #edd415;
         text-align: center;
-        line-height: 120px;
-        margin-top: 36px;
-        margin-left: 35px;
+        line-height: 1.2rem;
+        margin-top: 0.36rem;
+        margin-left: 0.35rem;
         color: #ffffff;
       }
       .lb_div4 {
-          box-sizing: border-box;
-        width: 118px;
-        height: 120px;
+        box-sizing: border-box;
+        width: 1.18rem;
+        height: 1.2rem;
         text-align: center;
         border-radius: 50%;
         background: #00b3b2;
         text-align: center;
-        line-height: 120px;
-        margin-top: 36px;
-        margin-left: 35px;
+        line-height: 1.2rem;
+        margin-top: 0.36rem;
+        margin-left: 0.35rem;
         color: #ffffff;
       }
       .lb_div5 {
-          box-sizing: border-box;
-        width: 118px;
-        height: 120px;
+        box-sizing: border-box;
+        width: 1.18rem;
+        height: 1.2rem;
         text-align: center;
         border-radius: 50%;
         background: #1b9bf7;
         text-align: center;
-        line-height: 120px;
-        margin-top: 36px;
-        margin-left: 35px;
+        line-height: 1.2rem;
+        margin-top: 0.36rem;
+        margin-left: 0.35rem;
         color: #ffffff;
       }
       .lb_div6 {
-          box-sizing: border-box;
-        width: 118px;
-        height: 120px;
+        box-sizing: border-box;
+        width: 1.18rem;
+        height: 1.2rem;
         text-align: center;
         border-radius: 50%;
         background: #7a73e8;
         text-align: center;
-        line-height: 120px;
-        margin-top: 36px;
-        margin-left: 35px;
+        line-height: 1.2rem;
+        margin-top: 0.36rem;
+        margin-left: 0.35rem;
         color: #ffffff;
       }
       .lb_div7 {
-          box-sizing: border-box;
-        width: 118px;
-        height: 120px;
+        box-sizing: border-box;
+        width: 1.18rem;
+        height: 1.2rem;
         text-align: center;
         border-radius: 50%;
         background: #ff4450;
         text-align: center;
-        line-height: 120px;
-        margin-top: 36px;
-        margin-left: 35px;
+        line-height: 1.2rem;
+        margin-top: 0.36rem;
+        margin-left: 0.35rem;
         color: #ffffff;
       }
       .lb_div8 {
-          box-sizing: border-box;
-        width: 118px;
-        height: 120px;
+        box-sizing: border-box;
+        width: 1.18rem;
+        height: 1.2rem;
         text-align: center;
         border-radius: 50%;
         background: #fd8963;
         text-align: center;
-        line-height: 120px;
-        margin-top: 36px;
-        margin-left: 35px;
+        line-height: 1.2rem;
+        margin-top: 0.36rem;
+        margin-left: 0.35rem;
         color: #ffffff;
       }
       p {
-          box-sizing: border-box;
-        font-size: 28px;
-        margin: 0;
-        padding: 0;
-        margin-top: 22px;
+        box-sizing: border-box;
+        font-size: 0.28rem;
+        margin-top: 0.22rem;
       }
     }
   }
   .lb_tet {
-      box-sizing: border-box;
-    width: 750px;
-    height: 680px;
+    box-sizing: border-box;
+    width: 7.5rem;
+    height: 6.8rem;
     background: #fff;
-    border-top: 1px #fff solid;
-    margin-top: 32px;
+    border-top: 0.01rem #fff solid;
+    margin-top: 0.32rem;
     .lb_tes {
-        box-sizing: border-box;
-      width: 750px;
-      height: 40px;
+      box-sizing: border-box;
+      width: 7.5rem;
+      height: 0.4rem;
       text-align: center;
-      margin-top: 32px;
-      margin-left: 18px;
-      border: #fff 1px solid;
+      margin-top: 0.32rem;
+      padding-left: 0.18rem;
+      border: #fff 0.01rem solid;
       .lb_test {
-          box-sizing: border-box;
+        box-sizing: border-box;
         display: flex;
-        border-left: 4px #37c993 solid;
-        width: 600px;
-        height: 44px;
+        border-left: 0.04rem #37c993 solid;
+        width: 6rem;
+        height: 0.44rem;
         .lb_p1 {
-            box-sizing: border-box;
-          width: 170px;
-          height: 44px;
-          font-size: 34px;
-          margin: 0;
+          box-sizing: border-box;
+          width: 1.7rem;
+          height: 0.44rem;
+          font-size: 0.34rem;
           color: #000000;
         }
         p {
-            box-sizing: border-box;
-          height: 44px;
-          font-size: 24px;
-          margin: 0;
+          box-sizing: border-box;
+          height: 0.44rem;
+          font-size: 0.24rem;
           text-align: center;
           color: #9a9a9a;
-          line-height: 44px;
+          line-height: 0.44rem;
         }
       }
     }
     .lb_txt {
-        box-sizing: border-box;
+      box-sizing: border-box;
       margin: 0 auto;
-      width: 734px;
-      height: 400px;
-      border: #fff 1px solid;
-      margin-top: 32px;
+      width: 7.34rem;
+      height: 4rem;
+      border: #fff 0.01rem solid;
+      margin-top: 0.32rem;
+      img {
+        width: 7.34rem;
+        height: 4rem;
+      }
     }
     .lb_tvt {
-        box-sizing: border-box;
-      width: 150px;
-      height: 50px;
+      box-sizing: border-box;
+      width: 1.5rem;
+      height: 0.5rem;
       display: flex;
-      margin-left: 344px;
-      margin-top: 20px;
+      margin: 0 auto;
+      margin-top: 0.2rem;
       .lb_div1 {
-          box-sizing: border-box;
-        width: 14px;
-        height: 14px;
+        box-sizing: border-box;
+        width: 0.14rem;
+        height: 0.14rem;
         border-radius: 50%;
         background: #00c099;
-        margin-right: 28px;
+        margin-right: 0.28rem;
       }
       .lb_div2 {
-          box-sizing: border-box;
-        width: 14px;
-        height: 14px;
+        box-sizing: border-box;
+        width: 0.14rem;
+        height: 0.14rem;
         border-radius: 50%;
         background: #7d7d7d;
       }
     }
     .lb_tdt {
-        box-sizing: border-box;
-      width: 750px;
-      height: 110px;
+      box-sizing: border-box;
+      width: 7.5rem;
+      height: 1.1rem;
       .lb_tdt1 {
-          box-sizing: border-box;
-        width: 714px;
-        height: 40px;
+        box-sizing: border-box;
+        width: 7.14rem;
+        height: 0.4rem;
         display: flex;
         margin: 0 auto;
         text-align: center;
-        line-height: 40px;
+        line-height: 0.4rem;
       }
       .iconfont {
-          box-sizing: border-box;
-        margin-right: 5px;
+        box-sizing: border-box;
+        margin-right: 0.05rem;
         color: #39c893;
       }
       p {
-          box-sizing: border-box;
-        font-size: 28px;
-        margin-right: 10px;
+        box-sizing: border-box;
+        font-size: 0.28rem;
+        margin-right: 0.1rem;
       }
     }
   }
   .lb_trt {
-      box-sizing: border-box;
-    width: 750px;
-    height: 510px;
-    border-top: 1px #fff solid;
-    margin-top: 32px;
-    margin-top: 18px;
+    box-sizing: border-box;
+    width: 7.5rem;
+    height: 5.1rem;
+    border-top: 0.01rem #fff solid;
+    margin-top: 0.32rem;
+    padding-left: 0.18rem;
     background: #fff;
     .lb_tes {
-        box-sizing: border-box;
-      width: 750px;
-      height: 40px;
+      box-sizing: border-box;
+      height: 0.4rem;
       text-align: center;
-      margin-top: 32px;
-      margin-left: 18px;
-      border: #fff 1px solid;
+      margin-top: 0.32rem;
+      padding-left: 0.18rem;
+      border: #fff 0.01rem solid;
       .lb_test {
-          box-sizing: border-box;
+        box-sizing: border-box;
         display: flex;
-        border-left: 4px #37c993 solid;
-        width: 600px;
-        height: 44px;
+        border-left: 0.04rem #37c993 solid;
+        width: 6rem;
+        height: 0.44rem;
         .lb_p1 {
-            box-sizing: border-box;
-          width: 170px;
-          height: 44px;
-          font-size: 34px;
-          margin: 0;
+          box-sizing: border-box;
+          width: 1.7rem;
+          height: 0.44rem;
+          font-size: 0.34rem;
           color: #000000;
         }
         p {
-            box-sizing: border-box;
-          height: 44px;
-          font-size: 24px;
-          margin: 0;
+          box-sizing: border-box;
+          height: 0.44rem;
+          font-size: 0.24rem;
           text-align: center;
           color: #9a9a9a;
-          line-height: 44px;
+          line-height: 0.44rem;
         }
       }
     }
     .lb_tt {
-        box-sizing: border-box;
-      width: 750px;
-      height: 410px;
+      box-sizing: border-box;
+      width: 5.9rem;
+      height: 4.1rem;
+      margin: 0 auto;
       div {
-          box-sizing: border-box;
-        width: 588px;
-        height: 70px;
-        margin-top: 25px;
-        margin-bottom: 25px;
-        margin-left: 84px;
+        box-sizing: border-box;
+        width: 5.9rem;
+        height: 0.7rem;
+        margin-top: 0.25rem;
+        margin-bottom: 0.25rem;
         input {
-            box-sizing: border-box;
-          width: 588px;
-          height: 70px;
-          border: 1px #cacaca solid;
-          font-size: 28px;
+          box-sizing: border-box;
+          width: 5.88rem;
+          height: 0.7rem;
+          border: 0.01rem #cacaca solid;
+          font-size: 0.28rem;
           color: #cacaca;
-          padding-left: 18px;
+          padding-left: 0.18rem;
         }
         button {
-            box-sizing: border-box;
-          width: 608px;
-          height: 70px;
+          box-sizing: border-box;
+          width: 5.9rem;
+          height: 0.7rem;
           background: #feb605;
-          border: 1px #feb605 solid;
-          font-size: 36px;
+          border: 0.01rem #feb605 solid;
+          font-size: 0.36rem;
           color: #fff;
         }
       }
     }
   }
   .lb_ty {
-      box-sizing: border-box;
-    width: 750px;
-    height: 500px;
+    box-sizing: border-box;
+    width: 7.5rem;
+    height: 5rem;
     background: #fff;
-    margin-top: 36px;
-    border-top: 1px #fff solid;
-    margin-top: 32px;
+    border-top: 0.01rem #fff solid;
+    margin-top: 0.32rem;
     .lb_tes {
-        box-sizing: border-box;
-      width: 750px;
-      height: 40px;
-      text-align: center;
-      margin-top: 32px;
-      margin-left: 18px;
-      border: #fff 1px solid;
+      box-sizing: border-box;
+      width: 7.5rem;
+      height: 0.4rem;
+      margin-top: 0.32rem;
+      padding-left: 0.18rem;
+      border: #fff 0.01rem solid;
       .lb_test {
-          box-sizing: border-box;
+        box-sizing: border-box;
         display: flex;
-        border-left: 4px #37c993 solid;
-        width: 600px;
-        height: 44px;
-        .lb_p1 {
-            box-sizing: border-box;
-          width: 170px;
-          height: 44px;
-          font-size: 34px;
-          margin: 0;
+        border-left: 0.04rem #37c993 solid;
+        width: 6rem;
+        height: 0.44rem;
+        .lb_p {
+          box-sizing: border-box;
+          width: 17rem;
+          height: 0.5rem;
+          font-size: 0.34rem;
+          margin-left: 0.16rem;
           color: #000000;
-        }
-        p {
-            box-sizing: border-box;
-          height: 44px;
-          font-size: 24px;
-          margin: 0;
-          text-align: center;
-          color: #9a9a9a;
-          line-height: 44px;
         }
       }
     }
     .lb_tyt {
-        box-sizing: border-box;
-      width: 750px;
-      height: 274px;
+      box-sizing: border-box;
+      width: 7.5rem;
+      height: 2.74rem;
       display: flex;
       justify-content: space-around;
-      text-align: center;
       .lb_tyt-a {
-          box-sizing: border-box;
-        width: 187;
-        height: 274px;
-        margin-top: 10px;
+        box-sizing: border-box;
+        width: 1.87rem;
+        height: 2.74rem;
+        margin-top: 0.18rem;
+        margin-left: 0.16rem;
+        div {
+          width: 1.46rem;
+          height: 1.46rem;
+          img {
+            width: 1.46rem;
+            height: 1.46rem;
+          }
+        }
       }
       .lb_p2 {
-        font-size: 30px;
+        font-size: 0.3rem;
         box-sizing: border-box;
-        margin-top: 25px;
+        margin-top: 0.25rem;
         text-align: center;
-        margin-bottom: 14px;
+        margin-bottom: 0.14rem;
       }
       .lb_p3 {
-          box-sizing: border-box;
-        width: 120px;
-        height: 34px;
+        box-sizing: border-box;
+        width: 1.2rem;
+        height: 0.34rem;
         background: #39c893;
         color: #fff;
-        font-size: 24px;
+        font-size: 0.24rem;
         text-align: center;
-        margin-left: 10px;
+        margin-left: 0.1rem;
       }
     }
     .lb_tyu {
-        box-sizing: border-box;
-      width: 718px;
-      height: 72px;
+      box-sizing: border-box;
+      width: 7.18rem;
+      height: 0.72rem;
       margin: 0 auto;
       display: flex;
-      margin-top: 36px;
-      border: 2px #f5f5f5 solid;
+      margin-top: 0.36rem;
+      border: 0.02rem #f5f5f5 solid;
       text-align: center;
       color: #37c993;
       .lb_tyu-a {
-          box-sizing: border-box;
-        width: 360px;
-        height: 72px;
-        line-height: 72px;
-        font-size: 26px;
-        border-right: 2px #f5f5f5 solid;
+        box-sizing: border-box;
+        width: 3.6rem;
+        height: 0.72rem;
+        line-height: 0.72rem;
+        font-size: 0.26rem;
+        border-right: 0.02rem #f5f5f5 solid;
       }
       .lb_tyu-b {
-          box-sizing: border-box;
-        width: 360px;
-        height: 72px;
-        font-size: 26px;
-        line-height: 72px;
+        box-sizing: border-box;
+        width: 3.6rem;
+        height: 0.72rem;
+        font-size: 0.26rem;
+        line-height: 0.72rem;
       }
     }
   }
   .lb_tyi {
-      box-sizing: border-box;
-    width: 750px;
-    height: 1260px;
-    margin-top: 36px;
+    box-sizing: border-box;
+    width: 7.5rem;
+    height: 12.6rem;
+    margin-top: 0.36rem;
     background: #fff;
-    border-top: 1px #fff solid;
-    margin-top: 32px;
+    border-top: 0.01rem#fff solid;
+    margin-top: 0.32rem;
     .lb_tes {
-      width: 750px;
-      height: 40px;
+      width: 7.5rem;
+      height: 0.4rem;
       text-align: center;
-      margin-top: 32px;
-      margin-left: 18px;
-      border: #fff 1px solid;
+      margin-top: 0.32rem;
+      padding-left: 0.18rem;
+      border: #fff 0.01rem solid;
       box-sizing: border-box;
       .lb_test {
         display: flex;
-        border-left: 4px #37c993 solid;
-        width: 600px;
-        height: 44px;
+        border-left: 0.04rem #37c993 solid;
+        width: 6rem;
+        height: 0.44rem;
         box-sizing: border-box;
         .lb_p1 {
-          width: 170px;
-          height: 44px;
-          font-size: 34px;
-          margin: 0;
+          width: 1.7rem;
+          height: 0.44rem;
+          font-size: 0.34rem;
           color: #000000;
           box-sizing: border-box;
         }
       }
     }
     .lb_tyi-a {
-      width: 716px;
-      height: 506px;
-      margin: 32px auto 0;
+      width: 7.16rem;
+      height: 5.06rem;
+      margin: 0.32rem auto 0;
       box-sizing: border-box;
       img {
-        width: 716px;
-        height: 506px;
+        width: 7.16rem;
+        height: 5.06rem;
       }
     }
     .lb_tyi-b {
-        box-sizing: border-box;
-      width: 716px;
-      height: 508px;
+      box-sizing: border-box;
+      width: 7.16rem;
+      height: 5.06rem;
       display: flex;
       margin: 0 auto;
       flex-wrap: wrap;
       justify-content: space-between;
       .lb_tyi-c {
-        width: 354px;
-        height: 249px;
-        margin-top: 8px;
+        width: 3.54rem;
+        height: 2.49rem;
+        margin-top: 0.08rem;
         box-sizing: border-box;
         img {
-          width: 354px;
-          height: 249px;
+          width: 3.54rem;
+          height: 2.49rem;
         }
       }
     }
     .lb_tyu {
-        box-sizing: border-box;
-      width: 718px;
-      height: 72px;
+      box-sizing: border-box;
+      width: 7.18rem;
+      height: 0.72rem;
       margin: 0 auto;
       display: flex;
-      margin-top: 36px;
-      border: 2px #f5f5f5 solid;
+      margin-top: 0.36rem;
+      border: 0.02rem #f5f5f5 solid;
       text-align: center;
       color: #37c993;
       .lb_tyu-a {
-        width: 360px;
-        height: 72px;
-        line-height: 72px;
-        font-size: 26px;
-        border-right: 2px #f5f5f5 solid;
+        width: 3.6rem;
+        height: 0.72rem;
+        line-height: 0.72rem;
+        font-size: 0.26rem;
+        border-right: 0.02rem #f5f5f5 solid;
         box-sizing: border-box;
       }
       .lb_tyu-b {
-        width: 360px;
-        height: 72px;
-        font-size: 26px;
-        line-height: 72px;
+        width: 3.6rem;
+        height: 0.72rem;
+        font-size: 0.26rem;
+        line-height: 0.72rem;
         box-sizing: border-box;
       }
     }
   }
   .lb_tyo {
-    width: 750px;
-    height: 880px;
-    margin: 32px auto;
+    width: 7.5rem;
+    height: 8.8rem;
+    margin: 0.32rem auto 0;
     background: #fff;
-    border-top: 1px #fff solid;
-    margin-top: 32px;
+    border-top: 0.01rem #fff solid;
     box-sizing: border-box;
     .lb_tes {
-      width: 750px;
-      height: 40px;
+      width: 7.5rem;
+      height: 0.4rem;
       text-align: center;
-      margin-top: 32px;
-      margin-left: 18px;
-      border: #fff 1px solid;
+      margin-top: 0.32rem;
+      padding-left: 0.18rem;
+      border: #fff 0.01rem solid;
       box-sizing: border-box;
       .lb_test {
         display: flex;
-        border-left: 4px #37c993 solid;
-        width: 600px;
-        height: 44px;
+        border-left: 0.04rem #37c993 solid;
+        width: 6rem;
+        height: 0.44rem;
         box-sizing: border-box;
         .lb_p1 {
-          width: 170px;
-          height: 44px;
-          font-size: 34px;
-          margin: 0;
+          width: 1.7rem;
+          height: 0.44rem;
+          font-size: 0.34rem;
           color: #000000;
           box-sizing: border-box;
         }
       }
     }
     .lb_tyo-a {
-      width: 716px;
-      height: 532px;
-      margin: 32px auto 0;
+      width: 7.16rem;
+      height: 5.32rem;
+      margin: 0.32rem auto 0;
       box-sizing: border-box;
       img {
-        width: 716px;
-        height: 532px;
+        width: 7.16rem;
+        height: 5.32rem;
       }
     }
     .lb_tyo-b {
-      width: 750px;
-      height: 40px;
+      width: 7.5rem;
+      height: 0.4rem;
       text-align: center;
-      padding: 32px 18px;
+      padding: 0.32rem 0.18rem;
       display: flex;
-box-sizing: border-box;
-      border: #fff 1px solid;
+      box-sizing: border-box;
+      border: #fff 0.01rem solid;
       .lb_tyo-c {
         text-align: center;
         align-items: center;
         display: flex;
-        width: 600px;
-        height: 44px;
+        width: 6rem;
+        height: 0.44rem;
         box-sizing: border-box;
         .lb_p4 {
-          font-size: 34px;
-          margin: 0;
+          font-size: 0.34rem;
           color: #000000;
-          margin-right: 15px;
+          margin-right: 0.15rem;
           box-sizing: border-box;
         }
         .lb_p5 {
-          width: 114px;
-          height: 36px;
+          width: 1.14rem;
+          height: 0.36rem;
           background: #39c893;
-          font-size: 24px;
+          font-size: 0.24rem;
           color: #fff;
-          line-height: 36px;
+          line-height: 0.36rem;
           box-sizing: border-box;
         }
       }
     }
     .lb_tyu {
-      width: 718px;
-      height: 72px;
+      width: 7.18rem;
+      height: 0.72rem;
       margin: 0 auto;
       display: flex;
-      margin-top: 36px;
-      border: 2px #f5f5f5 solid;
+      margin-top: 0.36rem;
+      border: 0.02rem #f5f5f5 solid;
       text-align: center;
       color: #37c993;
       box-sizing: border-box;
       .lb_tyu-a {
-        width: 360px;
-        height: 72px;
-        line-height: 72px;
-        font-size: 26px;
-        border-right: 2px #f5f5f5 solid;
+        width: 3.6rem;
+        height: 0.72rem;
+        line-height: 0.72rem;
+        font-size: 0.26rem;
+        border-right: 0.02rem #f5f5f5 solid;
         box-sizing: border-box;
       }
       .lb_tyu-b {
-        width: 360px;
-        height: 72px;
-        font-size: 26px;
-        line-height: 72px;
+        width: 3.6rem;
+        height: 0.72rem;
+        font-size: 0.26rem;
+        line-height: 0.72rem;
         box-sizing: border-box;
       }
     }
   }
   .lb_tyl {
-    width: 750px;
-    height: 970px;
-    margin-top: 32px;
+    width: 7.5rem;
+    height: 9.7rem;
+    margin-top: 0.32rem;
     background: #fff;
-    border-top: 1px #fff solid;
-    margin-top: 32px;
+    border-top: 0.01rem #fff solid;
     box-sizing: border-box;
     .lb_tes {
-      width: 750px;
-      height: 40px;
+      width: 7.5rem;
+      height: 0.4rem;
       text-align: center;
-      margin-top: 32px;
-      margin-left: 18px;
-      border: #fff 1px solid;
+      margin-top: 0.32rem;
+      padding-left: 0.18rem;
+      border: #fff 0.01rem solid;
       box-sizing: border-box;
       .lb_test {
         display: flex;
-        border-left: 4px #37c993 solid;
-        width: 600px;
-        height: 44px;
+        border-left: 0.04rem #37c993 solid;
+        width: 6rem;
+        height: 0.44rem;
         box-sizing: border-box;
         .lb_p1 {
-          width: 170px;
-          height: 44px;
-          font-size: 34px;
-          margin: 0;
+          width: 1.7rem;
+          height: 0.44rem;
+          font-size: 0.34rem;
           color: #000000;
           box-sizing: border-box;
         }
       }
     }
     .lb_tyl-a {
-      width: 716px;
-      height: 210px;
+      width: 7.16rem;
+      height: 2.1rem;
       display: flex;
       margin: 0 auto;
-      margin-top: 40px;
-      border-bottom: 2px #afafaf solid;
+      margin-top: 0.4rem;
+      border-bottom: 0.02rem #afafaf solid;
       box-sizing: border-box;
       .lb_tyl-b {
-        width: 190px;
-        height: 145px;
+        width: 1.9rem;
+        height: 1.45rem;
         box-sizing: border-box;
         img {
-          width: 190px;
-          height: 145px;
+          width: 1.9rem;
+          height: 1.45rem;
         }
       }
       .lb_tyl-c {
-        width: 526px;
-        height: 145px;
+        width: 5.26rem;
+        height: 1.45rem;
         box-sizing: border-box;
         .lb_tyl-d {
-          width: 526px;
-          height: 111px;
-          font-size: 34px;
-          padding-left: 22px;
+          width: 5.26rem;
+          height: 1.11rem;
+          font-size: 0.34rem;
+          padding-left: 0.22rem;
           box-sizing: border-box;
         }
         .lb_tyl-e {
-          width: 386px;
-          height: 34px;
-          margin-left: 22px;
+          width: 3.86rem;
+          height: 0.34rem;
+          margin-left: 0.22rem;
           display: flex;
           justify-content: space-between;
-          font-size: 24px;
+          font-size: 0.24rem;
           color: #afafaf;
           box-sizing: border-box;
           span {
-            margin-left: 10px;
+            margin-left: 0.1rem;
           }
         }
       }
     }
     .lb_tyl-a-1 {
-      width: 716px;
-      height: 210px;
+      width: 7.16rem;
+      height: 2.1rem;
       display: flex;
       margin: 0 auto;
-      margin-top: 40px;
-box-sizing: border-box;
+      margin-top: 0.4rem;
+      box-sizing: border-box;
       .lb_tyl-b {
-        width: 190px;
-        height: 145px;
+        width: 1.9rem;
+        height: 1.45rem;
         box-sizing: border-box;
         img {
-          width: 190px;
-          height: 145px;
+          width: 1.9rem;
+          height: 1.45rem;
         }
       }
       .lb_tyl-c {
-        width: 526px;
-        height: 145px;
+        width: 5.26rem;
+        height: 1.45rem;
         box-sizing: border-box;
         .lb_tyl-d {
-          width: 526px;
-          height: 111px;
-          font-size: 34px;
-          padding-left: 22px;
+          width: 5.26rem;
+          height: 1.11rem;
+          font-size: 0.34rem;
+          padding-left: 0.22rem;
           box-sizing: border-box;
         }
         .lb_tyl-e {
-          width: 386px;
-          height: 34px;
-          margin-left: 22px;
+          width: 3.86rem;
+          //   height: ;
+          margin-left: 0.22rem;
           display: flex;
           justify-content: space-between;
-          font-size: 24px;
+          font-size: 0.24rem;
           box-sizing: border-box;
           color: #afafaf;
           span {
-            margin-left: 10px;
+            margin-left: 0.1rem;
           }
         }
       }
     }
     .lb_tyu {
-      width: 718px;
-      height: 72px;
+      width: 7.18rem;
+      height: 0.72rem;
       margin: 0 auto;
       display: flex;
-      border: 2px #f5f5f5 solid;
+      border: 0.02rem #f5f5f5 solid;
       text-align: center;
       color: #37c993;
-      margin-bottom: 24px;
+      margin-bottom: 0.24rem;
       box-sizing: border-box;
       .lb_tyu-a {
-        width: 360px;
-        height: 72px;
-        line-height: 72px;
-        font-size: 26px;
-        border-right: 2px #f5f5f5 solid;
+        width: 3.6rem;
+        height: 0.72rem;
+        line-height: 0.72rem;
+        font-size: 0.26rem;
+        border-right: 0.02rem #f5f5f5 solid;
         box-sizing: border-box;
       }
       .lb_tyu-b {
-        width: 360px;
-        height: 72px;
-        font-size: 26px;
-        line-height: 72px;
+        width: 3.6rem;
+        height: 0.72rem;
+        font-size: 0.26rem;
+        line-height: 0.72rem;
         box-sizing: border-box;
       }
     }
   }
   .lb_tyk {
-    width: 750px;
-    height: 244px;
+    width: 7.5rem;
+    height: 2.44rem;
     background: #fff;
-    margin-top: 32px;
+    margin-top: 0.32rem;
     box-sizing: border-box;
     .lb_tyk-a {
-      width: 716px;
-      height: 244px;
+      width: 7rem;
+      height: 2.44rem;
       margin: 0 auto;
-      padding-top: 36px;
-      font-size: 28px;
-      text-indent: 56px;
+      padding-top: 0.36rem;
+      font-size: 0.28rem;
+      text-indent: 0.56rem;
       box-sizing: border-box;
     }
   }
-  .lb_tyj{
-    width: 750px;
-    height: 312px;
-    margin-top: 32px;
+  .lb_tyj {
+    width: 7.5rem;
+    height: 3.12rem;
+    margin-top: 0.32rem;
     box-sizing: border-box;
-    img{
-      width: 750px;
-      height: 312px;
+    margin-bottom: 50px;
+    img {
+      width: 7.5rem;
+      height: 3.12rem;
     }
   }
 }
