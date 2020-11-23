@@ -7,7 +7,7 @@
     </div> -->
 
 
-    <router-view></router-view>
+    <!-- <router-view></router-view> -->
 
     <!-- <div id="nav"> -->
       <!-- <router-link to="/">Home</router-link> |
