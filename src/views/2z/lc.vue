@@ -21,18 +21,6 @@
     <div class="bghear"></div>
     <!-- 接下来的图 -->
     <div class="bg1"></div>
-    <!-- <div class="bg2"> -->
-    <!-- <img :src="imgSrc2" width="100%" height="100%" alt="" /> -->
-    <!-- </div> -->
-    <!-- <div class="bg3"> -->
-    <!-- <img :src="imgSrc3" width="100%" height="100%" alt="" /> -->
-    <!-- </div> -->
-    <!-- <div class="bg4"> -->
-    <!-- <img :src="imgSrc4" width="100%" height="100%" alt="" /> -->
-    <!-- </div> -->
-    <!-- <div class="bg5"> -->
-    <!-- <img :src="imgSrc5" width="100%" height="100%" alt="" /> -->
-    <!-- </div> -->
     <div class="bg2"></div>
     <div class="bg3"></div>
     <div class="hsd"></div>
@@ -53,12 +41,6 @@ import  "../../assets/iconfont/iconfont.css"
 export default {
   data() {
     return {
-      // imgSrc1:require('@/imgs/process/proess1.jpg'),
-      // imgSrc2:require('@/imgs/process/proess2.jpg'),
-      // imgSrc3:require('@/imgs/process/proess3.jpg'),
-      // imgSrc4:require('@/imgs/process/proess4.jpg'),
-      // imgSrc5:require('@/imgs/process/proess5.jpg'),
-      // imgSrc:require('../../图片/切片/process/process1.jpg'),
     };
   },
   created() {},
@@ -81,15 +63,13 @@ html {
 body {
   height: 100%;
   margin: 0px;
-  /* display: flex; */
-  /* flex-direction: column; */
   font-size: 0.16rem;
 }
 .lxlc {
   font-size: 0.36rem;
   color: #000;
   width: 2.33rem;
-  /* margin-left: 0.74rem; */
+  margin-left: 0.74rem;
   margin-right: 0.44rem;
 }
 .wd {
@@ -117,8 +97,7 @@ p{
     margin: 0;
 }
 .gd {
-  width: 1.9rem;
-  padding-left: 0.5rem;
+  width: 1.5rem;
 }
 .mz {
   margin-left: 0.38rem;
