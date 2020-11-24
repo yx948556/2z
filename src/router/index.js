@@ -79,6 +79,12 @@ const routes = [
     name: 'sjs',
     component: ()=> import ('@/views/2z/sjs')
   },
+  //设计师列表页
+  {
+	  path: '/fc2',
+	  name: 'fc2',
+	  component: ()=> import ('@/views/2z/fc2')
+  }
 
 ]
 
