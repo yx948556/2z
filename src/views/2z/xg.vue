@@ -95,7 +95,7 @@
 			<span>关于我们</span>
 			<span>联系我们</span>
 		</p>
-		<img src="../../assets/imgs/fc.jpg" style="width: 100%" alt="" />
+		<img src="@/assets/imgs/fc.jpg" style="width: 100%" alt="" />
 	</div>
 </template>
 
