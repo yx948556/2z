@@ -1,7 +1,7 @@
 <template>
 	<div class="fc_sjslb">
 		<div class="fc_header">
-			<img src="../../../../../../11.21/2002a2/新建文件夹/新建文件夹/public/图片/切图/logo.png" alt="" style="width: 7.66em; margin-top: 0.5em;margin-left: 0.5em;" />
+			<img src="../../assets/imgs/icon_logo.png" alt="" style="width: 7.66em; margin-top: 0.5em;margin-left: 0.5em;" />
 			<span class="fc_span1" style="font-size: 1.5em; margin-left: 1.5em;">效果图</span>
 			<span style="color: #999">
 				<span style="margin-left: 2em">我的</span>
